@@ -1,0 +1,20 @@
+body{
+    margin: 0 auto;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+.container{
+    height: 100vh;
+    place-content: center;
+    
+}
+
+.card{
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    
+}
